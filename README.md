@@ -1,6 +1,6 @@
 # Face Detection using OpenCV
 
-OpenCV provids pre-trained haarcascades for face,eyes,smile etc detection which can be downloaded online.
+Project uses haarcascades for face,eyes,smile etc which contains facial encoding.
 Load required cascades in the program for detection.
 
 
